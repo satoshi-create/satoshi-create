@@ -4,5 +4,4 @@
 
 I'm working on a website called "Side Scrolling Picture Scrolls." With this project, I am passionate about improving the UI & UX by enabling people to view emaki scrolls the way they should be viewed.
 
-
-![handscroll_demo](https://github.com/satoshi-create/satoshi-create/assets/69901615/7da72d10-886c-42d3-9bf1-36ed491e3299)
+![note-header_1920×324px](https://github.com/satoshi-create/satoshi-create/assets/69901615/afe2ef98-4bdb-4b95-9fbb-55f7e8aa4b52)
