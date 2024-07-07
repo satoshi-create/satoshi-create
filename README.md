@@ -9,4 +9,4 @@ I'm working on a website called "Side Scrolling Picture Scrolls." With this proj
 </a>
 
 
-[![横スクロールで楽しむ絵巻物](https://github.com/satoshi-create/satoshi-create/assets/69901615/5a063aaa-685b-48f5-9806-22fdb030daa1)](https://emakimono.com/){:target="_blank"}
+[![横スクロールで楽しむ絵巻物](https://github.com/satoshi-create/satoshi-create/assets/69901615/5a063aaa-685b-48f5-9806-22fdb030daa1)](https://emakimono.com/)
