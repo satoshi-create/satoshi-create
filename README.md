@@ -6,3 +6,6 @@ I'm working on a website called "Side Scrolling Picture Scrolls." With this proj
 
 
 [![横スクロールで楽しむ絵巻物](https://github.com/satoshi-create/satoshi-create/assets/69901615/5a063aaa-685b-48f5-9806-22fdb030daa1)](https://emakimono.com/){:target="_blank"}
+
+<img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/362315/65d2d650-aee5-40cb-2093-607d931ec087.png">
+<img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/362315/7a000ef8-21c1-1e86-2942-f1933ffe839b.png">
