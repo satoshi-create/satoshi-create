@@ -6,7 +6,7 @@ I'm working on a website called "Side Scrolling Picture Scrolls." With this proj
 
 [![横スクロールで楽しむ絵巻物](https://github.com/satoshi-create/satoshi-create/assets/69901615/5a063aaa-685b-48f5-9806-22fdb030daa1)](https://emakimono.com/)
 
-![note-header_02_small](https://github.com/satoshi-create/satoshi-create/assets/69901615/c5d009ba-ae68-447b-b007-dd8ae6517e89)
+![横スクロールで楽しむ絵巻物](https://github.com/satoshi-create/satoshi-create/assets/69901615/c5d009ba-ae68-447b-b007-dd8ae6517e89)(https://emakimono.com/)
 
 
 
