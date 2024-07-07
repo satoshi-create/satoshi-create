@@ -4,10 +4,7 @@
 
 I'm working on a website called "Side Scrolling Picture Scrolls." With this project, I am passionate about improving the UI & UX by enabling people to view emaki scrolls the way they should be viewed.
 
-<a href="https://emakimono.com/" rel="nofollow" target="_blank">
-横スクロールで楽しむ絵巻物
-</a>
-
+[横スクロールで楽しむ絵巻物](https://emakimono.com/)　
 
 [![横スクロールで楽しむ絵巻物](https://github.com/satoshi-create/satoshi-create/assets/69901615/5a063aaa-685b-48f5-9806-22fdb030daa1)](https://emakimono.com/)
 
