@@ -4,4 +4,6 @@
 
 I'm working on a website called "Side Scrolling Picture Scrolls." With this project, I am passionate about improving the UI & UX by enabling people to view emaki scrolls the way they should be viewed.
 
+[横スクロールで楽しむ絵巻物](https://emakimono.com/){:target="_blank"}
+
 ![note-header_1920×324px](https://github.com/satoshi-create/satoshi-create/assets/69901615/afe2ef98-4bdb-4b95-9fbb-55f7e8aa4b52)
