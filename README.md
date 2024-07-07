@@ -1,4 +1,5 @@
-## Hi there I am Creater of "Horizontal Scrolling Picture Scrolls"（「横スクロールで楽しむ絵巻物」）👋
+## Hi there
+## I am Creater of "Horizontal Scrolling Picture Scrolls"（「横スクロールで楽しむ絵巻物」）👋
 
 「横スクロールで楽しむ絵巻物」というサイトの制作してます。このプロジェクトにより、絵巻物を本来の見方で閲覧することを可能にし、UI＆UXを向上させることに情熱を注いでいます。
 
