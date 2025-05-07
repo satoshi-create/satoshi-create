@@ -1,10 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Satoshi.
 
-「横スクロールで楽しむ絵巻物」というサイトの制作してます。このプロジェクトにより、絵巻物を本来の見方で閲覧することを可能にし、UI＆UXを向上させることに情熱を注いでいます。
+I build CANW — an open-source project exploring cultural and ecological complexity using AI, frontend tech, and network design.
 
-I'm working on a website called "Side Scrolling Picture Scrolls." With this project, I am passionate about improving the UI & UX by enabling people to view emaki scrolls the way they should be viewed.
+🎨 Favorite tools: TypeScript, Figma, Affinity, NetworkX, Mermaid,ChatGPT 
+🎴 Themes: Japanese culture, emaki scrolls, shrine networks, soil ecology  
+🌐 [CANW GitHub](https://github.com/satoshi-create/complexity-and-network-webdesign) | [LinkedIn](https://www.linkedin.com/in/satoprofile/)
 
-[横スクロールで楽しむ絵巻物](https://emakimono.com/)　
+> Bridging AI and cultural storytelling through open collaboration.
+
 
 [![横スクロールで楽しむ絵巻物](https://github.com/satoshi-create/satoshi-create/assets/69901615/5a063aaa-685b-48f5-9806-22fdb030daa1)](https://emakimono.com/)
 
