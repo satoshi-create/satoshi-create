@@ -12,5 +12,5 @@ docs/branding-mvp-launch/images/hero/#01_canw-intro-draft/#01_canw-intro-draft_s
 > Bridging AI and cultural storytelling through open collaboration.
 
 
-[![横スクロールで楽しむ絵巻物](https://github.com/satoshi-create/complexity-and-network-webdesign/blob/main/docs/branding-mvp-launch/images/hero/%2301_canw-intro-draft/%2301_canw-intro-draft_substack_feminine.png)](https://complexity-and-network-webdesign.vercel.app/)
+[![横スクロールで楽しむ絵巻物](https://github.com/satoshi-create/complexity-and-network-webdesign)](https://complexity-and-network-webdesign.vercel.app/)
 
