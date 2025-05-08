@@ -14,7 +14,7 @@ I build **CANW** — an open-source project exploring cultural and ecological co
 
 ## 🧰 Favorite Tools
 
-Next.js / TypeScript / NetworkX / Mermaid / Supabase / Figma / Pixi.js
+Next.js / TypeScript / NetworkX / Mermaid / Supabase / Figma /
 
 ---
 
