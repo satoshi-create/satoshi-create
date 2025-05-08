@@ -1,6 +1,6 @@
 [![#01_canw-intro-draft_substack_feminine.png](https://github.com/satoshi-create/complexity-and-network-webdesign/blob/main/docs/branding-mvp-launch/images/hero/%2301_canw-intro-draft/%2301_canw-intro-draft_substack_feminine.png)](https://github.com/satoshi-create/complexity-and-network-webdesign)
 
-📘 Languages: [en English] | [🇯🇵 日本語](./README.ja.md)
+📘 Languages: [English] | [🇯🇵 日本語](./README.ja.md)
 
 # 👋 はじめまして、さとです
 
