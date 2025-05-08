@@ -1,5 +1,7 @@
 [![#01_canw-intro-draft_substack_feminine.png](https://github.com/satoshi-create/complexity-and-network-webdesign/blob/main/docs/branding-mvp-launch/images/hero/%2301_canw-intro-draft/%2301_canw-intro-draft_substack_feminine.png)](https://github.com/satoshi-create/complexity-and-network-webdesign)
 
+📘 Languages: [English](#hi-im-satoshi) | [🇯🇵 日本語](./README.ja.md)
+
 # 👋 Hi, I'm Sato
 
 I build **CANW** — an open-source project exploring cultural and ecological complexity through AI, storytelling, and network design.
