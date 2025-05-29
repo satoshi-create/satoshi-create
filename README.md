@@ -50,8 +50,8 @@ Next.js / TypeScript / NetworkX / Mermaid / Supabase / Figma /
 
 | Platform     | Description                                      |
 |--------------|--------------------------------------------------|
-| [note](https://note.com/your-profile)       | 🇯🇵 Writing hub for project logs and essays (Japanese) |
-| [LinkedIn](https://www.linkedin.com/in/your-profile) | 🤝 For collaboration and professional outreach         |
+| [note](https://note.com/enjoy_emakimono)       | 🇯🇵 Writing hub for project logs and essays (Japanese) |
+| [LinkedIn](www.linkedin.com/in/satoprofile) | 🤝 For collaboration and professional outreach         |
 | [🌐 CANW Website](https://complexity-and-network-webdesign.vercel.app/) | Official site for the CANW ecosystem                   |
 
 ---
